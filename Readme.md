@@ -15,6 +15,7 @@
         </ul>
     <h2 style="text-decoration: underline;">Database</h2>
     <ul><li>Mysql</li></ul>
+    <h2>To run the application run <code>npm start</code></h2>
     <a href="https://drive.google.com/file/d/10YOz3pebCTQcBRhGZgs95CwK5LajAvDa/view?usp=sharing">Watch the Video</a><br>
     Laravel Documentation : <a href="https://laravel.com/docs/11.x">laravel</a><br>
     TailwindCss Documentation: <a href="https://tailwindcss.com/docs/guides/laravel">tailwindcss with laravel</a><br>
